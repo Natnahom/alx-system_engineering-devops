@@ -1,2 +1,1 @@
-This is a readme file
-for this project
+Script that prints the absolute path name of the current working directory.
