@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lamF
+ls -lamF --file-type
