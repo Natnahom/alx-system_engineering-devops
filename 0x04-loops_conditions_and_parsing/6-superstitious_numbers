@@ -1,5 +1,4 @@
-#!/bin/bash/env bash
-
+#!/usr/bin/env bash
 # Displays numbers from 1 to 20
 
 i=1
